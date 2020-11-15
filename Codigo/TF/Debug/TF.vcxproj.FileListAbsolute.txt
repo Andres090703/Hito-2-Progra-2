@@ -1,0 +1,3 @@
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Debug\TF.vcxprojAssemblyReference.cache
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Debug\TF.MyForm.resources
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Debug\TF.vcxproj.GenerateResource.cache

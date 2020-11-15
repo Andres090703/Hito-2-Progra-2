@@ -1,0 +1,6 @@
+C:\Users\Victor\OneDrive\Documentos\Docencia\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\x64\Debug\TF.vcxprojAssemblyReference.cache
+C:\Users\Victor\OneDrive\Documentos\Docencia\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Victor\OneDrive\Documentos\Docencia\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\x64\Debug\TF.vcxprojAssemblyReference.cache
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\x64\Debug\TF.MyForm.resources
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache

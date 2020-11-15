@@ -1,0 +1,24 @@
+﻿  Aliado.cpp
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(38,7): warning C4101: 'resultadoAleatorio': variable local sin referencia
+  CJuego.cpp
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\CEscenario.h(29,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\entidad.h(94,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\entidad.h(95,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(38,7): warning C4101: 'resultadoAleatorio': variable local sin referencia
+  MyForm.cpp
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\CEscenario.h(29,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\entidad.h(94,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\entidad.h(95,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(38,7): warning C4101: 'resultadoAleatorio': variable local sin referencia
+  TF.cpp
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\CEscenario.h(29,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\entidad.h(94,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\entidad.h(95,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\TF\Aliado.h(38,7): warning C4101: 'resultadoAleatorio': variable local sin referencia
+  Generando código...
+  Aliado.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF.vcxproj -> Z:\TusClases\Andres Reynoso\Trabajo Final\Avance 2\TF\Debug\TF.exe
